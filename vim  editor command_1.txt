@@ -1,0 +1,13 @@
+1st of we create a file by using our command line which is -- touch file name
+then open it on vim editor, which command is -- vim file name 
+
+vim start with press i 
+then we start coding 
+when coding will end then press+hold (Esc), press shift and (:) this sign  and write :wq [which means write and save and quite]
+
+then open the terminal again and command -- gcc file name -o file name
+and getting final output again final command which is -- ./name
+then you will get the output in c
+
+
+for run your python file on terminal then goto terminal then commnad -- python3 file name [which file you want to open]
