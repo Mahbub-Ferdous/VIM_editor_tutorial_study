@@ -1,9 +1,35 @@
 1st of we create a file by using our command line which is -- touch file name
 then open it on vim editor, which command is -- vim file name 
 
-vim start with press i 
-then we start coding 
-when coding will end then press+hold (Esc), press shift and (:) this sign  and write :wq [which means write and save and quite]
+vim start with press ----   i, then we start coding. 
+
+then you want any command then press Esc and : then command please
+
+when coding will end then press shift and (:) this sign  and write :wq   [which means write and save and quite]
+
+if you want to see the number of row command ----- press(shift)+(:)set number    [  :set number ] 
+
+if you to need syntax color on in your vim ----   [ :syntax on ]
+
+to navigate vim then press ----- ( j == down scroll ), ( k == up scroll ), ( l == right navigate ), ( h == left navigate).
+
+if you want to word by word navigate then press ---- ( w = forward navigate ), ( b == backward navigate ).
+
+if you go to begining of your line command  ---- ( 0 )  -- zero
+
+if you want to end of the line command  ---- ($) ---dollar sign 
+
+if line begining a gap then command to go begining alphabet  ---- shift+^
+
+if you want go end line then press -------- G [capital g]
+
+if you navigate specific line of the file   -----    pressLineNumber+gg 
+
+if you jump any line of file with vim command line then command    -----   vim +lineNumber fileName
+
+
+
+
 
 then open the terminal again and command -- gcc file name -o file name
 and getting final output again final command which is -- ./name
